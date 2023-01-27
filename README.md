@@ -12,12 +12,12 @@
 </p>
     
 ## Sobre o Projeto
-Este repositório tem como objetivo ensinar a magnifica arte de jogar **Truco**, juntamos as principais regras e dicas para que você consiga se **divertir** jogando com seus amigos em momentos de lazer. Sabemos que temos muitos esteriótipos que rodeiam este jogo porém vamos provar que é possível jogar amigavelmente o bom e velho **TRUCO**. 
+Este repositório tem como objetivo ensinar a magnifica arte de jogar **Truco**, juntamos as principais regras e dicas para que você consiga se **divertir** jogando com seus amigos em momentos de lazer. Sabemos que temos muitos estereótipos que rodeiam este jogo porém vamos provar que é possível jogar amigavelmente o bom e velho **TRUCO**. 
 
 ## Guia
 
 - [Conceitos básicos](src/conceitos-basicos.md)
-  
+- 
 
 ## Como Contribuir
 
@@ -33,7 +33,7 @@ são **extremamente apreciadas**.
 ## Autores
 
 - **Larissa Kalane** - Desenvolvedora PHP - [@kalanedev](https://twitter.com/kalanedev)
-- **Samuel Rodrigues** - Desenvolvedor JS - [@samucadev_](https://twitter.com/samucadev_)
+- **Samuel Rodrigues** - Desenvolvedor JS - [@samucadev](https://twitter.com/samucadev)
 
 ---
 
